@@ -42,6 +42,3 @@ It handles different priority levels:
 - "Progress my activity to 20%"
 - "Set the severity of my activity to warn and progress it by 10%"
 - "End my activity, and delay the dismissal for 5 minutes"
-
----
-© 2026 Signalgrid e.U.
