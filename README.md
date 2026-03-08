@@ -1,4 +1,5 @@
 # Signalgrid Live Activities for OpenClaw
+[![ClawHub Skill](https://img.shields.io/badge/ClawHub-Signalgrid--Activity-blue?logo=openclaw&logoColor=white)](https://clawhub.ai/signalgridco/signalgrid-activity)
 
 Send Live Activities & Ongoing notifications to your iOS / Android via Signalgrid.
 
