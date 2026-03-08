@@ -21,7 +21,9 @@ Add your credentials to your OpenClaw settings (typically `config.yaml` or throu
 
 ## Installation
 
-openclaw skills install https://github.com/signalgridco/signalgrid-openclaw-activity
+``` bash
+clawdhub --workdir ~/.openclaw install signalgrid-activity
+```
 
 ## How to use
 
