@@ -12,7 +12,7 @@ metadata:
       env:
       - SIGNALGRID_CLIENT_KEY
       - SIGNALGRID_CHANNEL
-name: signalgrid-push
+name: signalgrid-activity
 ---
 
 # Signalgrid Live Activities
